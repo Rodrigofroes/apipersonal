@@ -1,0 +1,74 @@
+# Compilação do .NET
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.userosscache
+*.suo
+*.unsuccessfulbuild
+*.vshost.exe
+*.vshost.exe.manifest
+
+# Configurações do Visual Studio
+.vs/
+*.ncrunchsolution
+*.ncrunchproject
+*.sln.docstates
+
+# Configurações locais de usuário
+*.user
+*.rsuser
+*.suo
+*.userprefs
+
+# Arquivos gerados
+*.ide-helper.php
+*.designer.cs
+*.g.cs
+*.g.i.cs
+*.g.vb
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Arquivos de log
+*.log
+*.tlog
+
+# Configurações de publicação
+.publish/
+
+# Configurações do Rider
+.idea/
+*.idea/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos do sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Credenciais ou arquivos sensíveis
+.env
+*.env.*
+
+# Testes
+TestResults/
+*.trx
+*.coverage
+
+# Outros
+_ReSharper.Caches/
